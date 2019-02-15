@@ -1,0 +1,4 @@
+Buyer Bias Strategy: 
+If the buyer has a valid bid on an item with triple price or higher of the highest bid,
+
+the buyer can buy the item immediately and the item closed.
